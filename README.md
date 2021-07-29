@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello friend, I'm Anthony
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-T-N&layout=compact)](https://github.com/Anthony-T-N/github-readme-stats)
 
