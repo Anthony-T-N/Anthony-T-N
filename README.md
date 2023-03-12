@@ -10,7 +10,7 @@
 ![Kubernetes](https://img.shields.io/static/v1?logo=Kubernetes&label=&message=Kubernetes&color=36465D&logoColor=AAA&style=flat-square)
 ![Docker](https://img.shields.io/static/v1?logo=Docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-T-N&layout=compact)](https://github.com/Anthony-T-N/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-T-N&theme=dark&show_icons=true&layout=compact)](https://github.com/Anthony-T-N/github-readme-stats)
 
 ---
 
