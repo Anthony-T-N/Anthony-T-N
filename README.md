@@ -1,6 +1,9 @@
 ### Hello friend, I'm Anthony
-[![Codeward](https://www.codewars.com/users/A-T-N/badges/large)](https://www.codewars.com/users/A-T-N)
+
+Just your typical cybersecurity engineer.
+
 ---
+[![Codeward](https://www.codewars.com/users/A-T-N/badges/large)](https://www.codewars.com/users/A-T-N)
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=111&style=flat-square)
 ![C++](https://img.shields.io/static/v1?logo=C%2B%2B&label=&message=C%2B%2B&color=36465D&logoColor=AAA&style=flat-square&link=)
