@@ -10,7 +10,6 @@ Just your typical cybersecurity engineer.
 ![Python](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square&link=)
 &nbsp;&nbsp;&nbsp;
 ![Tools](https://img.shields.io/static/v1?label=&message=Tools:&color=111&style=flat-square)
-![Kubernetes](https://img.shields.io/static/v1?logo=Kubernetes&label=&message=Kubernetes&color=36465D&logoColor=AAA&style=flat-square)
 ![Docker](https://img.shields.io/static/v1?logo=Docker&label=&message=Docker&color=36465D&logoColor=AAA&style=flat-square)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony-T-N&theme=dark&show_icons=true&layout=compact)](https://github.com/Anthony-T-N/github-readme-stats)
@@ -18,6 +17,10 @@ Just your typical cybersecurity engineer.
 ---
 
 Personal Homepage : https://anthony-t-n.github.io/ 
+
+<!--
+![Kubernetes](https://img.shields.io/static/v1?logo=Kubernetes&label=&message=Kubernetes&color=36465D&logoColor=AAA&style=flat-square)
+-->
 
 <!--
 **Anthony-T-N/Anthony-T-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
